@@ -1,0 +1,13 @@
+{
+    "name": "minter-dapp",
+    "version": "0.0.1",
+    "description": "Generate an NFT collection and deploy a minting dapp easy!!",
+    "scripts": {
+
+    },
+    "author": "Whyyoey (AntaSena)",
+    "license": "MIT",
+    "dependencies": {
+
+    }
+}
